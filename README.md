@@ -3,7 +3,7 @@ Ficheiros e programas criados na UC de "Dados e Computação" do curso de Engenh
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-_Nota Final do Trabalhob de Grupo_: 17 valores em 20 valores.
+_Nota Final do Trabalho de Grupo_: 17 valores em 20 valores.
 
 ##### Elementos do grupo:
 - Guilherme Sousa Silva Martins, A92847
